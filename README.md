@@ -1,5 +1,11 @@
-# Talking-Trails
-An android app, hiking social media service
-Users can upload images(from gallery to from camera) to a map and retrieve them if they walk within a certain radius
+# CS118UntitledProject
+Android App where users will be able to 'drop' content onto the map for other users to see and interact with.
 
-A CSE118 Mobile Applications course project
+
+Team Members:
+
+Alex Vargas
+
+Brandon Jacobson
+
+Mitchell Mercado
